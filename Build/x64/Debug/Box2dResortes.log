@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\mati\Desktop\TP-Ragdoll\Resortes\Src\Game.cpp(96,87): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\Resortes\Src\Game.cpp(100,93): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\Resortes\Src\Game.cpp(104,92): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\mati\Desktop\TP-Ragdoll\Resortes\Src\Game.cpp(108,92): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Box2dResortes.vcxproj -> C:\Users\mati\Desktop\TP-Ragdoll\Resortes\Bin\Debug\Box2dResortes.exe
